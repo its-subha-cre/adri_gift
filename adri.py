@@ -221,7 +221,7 @@ if encoded_images:
 st.subheader("🗺️ Places We've Been Together 💞")
 
 # Center point (Kolkata)
-st.image("Screenshot (72).png", caption="Places we have spent romantic time together 🎂💖", use_container_width=True)
+st.image("Screenshot (72).png", caption="Places we have spent romantic time together 🎂💖", use_column_width=True)
 
 st.markdown("---")
 st.subheader("👩‍👩‍👧 Adri’s Beautiful Family 💕")
